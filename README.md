@@ -5,3 +5,5 @@ pageLoader是一个实现无线分页的Demo。
 
 Demo中ajax请求通过jquery-mockjax模拟完成。
 
+haha
+
